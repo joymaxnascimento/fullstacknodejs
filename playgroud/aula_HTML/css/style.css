@@ -1,0 +1,23 @@
+body{
+    font-family: Arial;
+    background-color: #0ce9b2;
+}
+
+p{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: justify;
+    line-height: 20px;
+    color: #ee0654;
+}
+
+h2{
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
